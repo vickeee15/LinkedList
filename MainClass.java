@@ -4,6 +4,7 @@ public class MainClass {
         LinkedList list = new LinkedList();
         list.insert(56);
         list.insert(30);
+        list.insert(40);
         list.insert(70);
 
         list.deleteAt(2);
