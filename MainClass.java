@@ -6,7 +6,7 @@ public class MainClass {
         list.insert(30);
         list.insert(70);
 
-        list.deleteAt(0);
+        list.deleteAt(2);
 
         list.show();
     }
